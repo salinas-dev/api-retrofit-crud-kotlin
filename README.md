@@ -13,5 +13,5 @@ Javascript, HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/R3X9nCn/mapa-2023-06-16-182020.png)
+![App Screenshot]()
 
