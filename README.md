@@ -12,7 +12,7 @@ Kotlin, Android Studio, NodeJS, MySQL...
 
 
 ## Aplicación Android:
-La MainActivity es el lugar principal donde ocurre la magia. Aquí, se usa un RecyclerView para mostrar una lista de tareas de manera ordenada. La estructura del código, utilizando extensiones de vistas y coroutines para manejar operaciones asíncronas.
+La MainActivity es el lugar principal donde ocurre la magia. Aquí se usa un RecyclerView para mostrar una lista de tareas de manera ordenada. La estructura del código, utilizando extensiones de vistas y coroutines para manejar operaciones asíncronas.
 
 #### Main.kt
 ![App Screenshot](https://i.ibb.co/Ptw3QKv/Captura-de-pantalla-2024-01-31-134148.png)
